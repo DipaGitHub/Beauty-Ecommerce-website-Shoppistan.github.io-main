@@ -1,6 +1,7 @@
 # Beauty-Ecommerce-website-Shoppistan
 
 Shoppistan is an e-commerce website made with HTML, CSS and JavaScript. I love desigining, so in this project I concentrated more in the frontend part instead of backend. This project is also an great example of my creativity.
+Live URL: https://shoppistan-ecommerce.netlify.app/
 
 # Home Page
 
