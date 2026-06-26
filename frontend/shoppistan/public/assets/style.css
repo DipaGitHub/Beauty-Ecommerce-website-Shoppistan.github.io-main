@@ -125,7 +125,7 @@ button.white{
 /* Home */
 
 #hero{
-    background-image: url("assets/Imageher.jpg");
+    background-image: url("assets/Image/her.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -273,7 +273,7 @@ button.white{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("assets/Imagebanner.jpg");
+    background-image: url("assets/Image/banner.jpg");
     width: 100%;
     height: 300px;
     background-size: cover;
@@ -312,7 +312,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("assets/Imagefree\ pic.png");
+    background-image: url("assets/Image/free\ pic.png");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -322,7 +322,7 @@ button.white{
 }
 
 #sm-banner .banner-box2{
-    background-image: url("assets/ImageNIVEA.png");
+    background-image: url("assets/Image/NIVEA.png");
 }
 
 #sm-banner h2{
@@ -360,7 +360,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("assets/ImageTextBanner/WinterSale.png");
+    background-image: url("assets/Image/TextBanner/WinterSale.png");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -371,11 +371,11 @@ button.white{
 }
 
 #banner3 .box2{
-    background-image: url("assets/ImageTextBanner/SkinCare.png");
+    background-image: url("assets/Image/TextBanner/SkinCare.png");
 }
 
 #banner3 .box3{
-    background-image: url("assets/ImageTextBanner/BestDeals.png");
+    background-image: url("assets/Image/TextBanner/BestDeals.png");
 }
 
 #banner3 h2{
@@ -400,7 +400,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("assets/ImageNewsletter-Background-Full.png");
+    background-image: url("assets/Image/Newsletter-Background-Full.png");
     background-position: 20% 30%;
     background-color: violet;
 }
@@ -508,7 +508,7 @@ footer .copyright{
 /* Shop Page  */
 
 #page-header{
-    background-image: url(/assets/ImageshopHeader.png);
+    background-image: url(/assets/Image/shopHeader.png);
     width: 100%;
     height: 40vh;
     background-repeat: no-repeat;
@@ -594,7 +594,7 @@ footer .copyright{
 /* Blog Page */
 
 #page-header.blog-header{
-      background-image: url(/assets/ImageBlogHeader.png);
+      background-image: url(/assets/Image/BlogHeader.png);
 }
 
 #page-header.blog-header h2 {
@@ -683,7 +683,7 @@ footer .copyright{
 /* About Page */
 
 #page-header.about-header{
-    background-image: url(/assets/ImageAbout/AboutHeader.png);
+    background-image: url(/assets/Image/About/AboutHeader.png);
 }
 
 
@@ -723,7 +723,7 @@ footer .copyright{
 /* contact page  */
 
 #page-header.contact-header{
-    background-image: url(/assets/Imagecontact-us.png);
+    background-image: url(/assets/Image/contact-us.png);
 }
 
 #page-header.contact-header h2{
@@ -850,7 +850,7 @@ footer .copyright{
 /* cart page */
 
 #page-header.cart-header{
-    background-image: url(/assets/Imagecart.png);
+    background-image: url(/assets/Image/cart.png);
 }
 
 #cart{
